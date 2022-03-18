@@ -13,4 +13,4 @@ const v4: number = f3(123);
 const v5: number = f3();
 
 // エラー例
-const v6: number = f1();
+// const v6: number = f1();
